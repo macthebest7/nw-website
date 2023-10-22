@@ -11,16 +11,16 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #171616;
 }
 
 a {
-  color: #e96b56;
+  color: #56b6e9;
   text-decoration: none;
 }
 
 a:hover {
-  color: #e6573f;
+  color: #3face6;
   text-decoration: none;
 }
 
@@ -43,7 +43,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #e96b56;
+  background: #56b6e9;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -57,7 +57,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #ee8b7a;
+  background: #3face6;
   color: #fff;
 }
 
